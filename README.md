@@ -1,1 +1,1 @@
-![banner](https://github.com/HECTORalvarado/HECTORalvarado/img/banner.png)
+![banner](https://github.com/HECTORalvarado/HECTORalvarado/blob/master/img/banner.png)
