@@ -1,1 +1,1 @@
-<img src="img/banner.svg" width="100%">
+<img src="img/banner.png" width="100%">
